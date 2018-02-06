@@ -15,7 +15,7 @@ consumer_secret="#YOUR_CONSUMER_SECRET"
 access_token_key="#YOUR_ACCESS_TOKEN_KEY"
 access_token_secret="#YOUR_ACCESS_TOKEN_SECRET"
 ```
-4.After the modify, tweets will send to your twitter accont as below.
+4.After the modify, tweets will be send to your twitter accont as below.
 <img src="https://pbs.twimg.com/media/DVLPEctV4AACT1e.jpg">
 
 5.**Enjoy!**
