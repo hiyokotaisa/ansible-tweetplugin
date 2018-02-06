@@ -2,12 +2,12 @@
 A callback plugin to tweet the result of provisioning with ansible.
 
 ## How to Use
-1. Install requests and requests_oauthlib from pip. See "Installation" section of [README.rst](https://github.com/requests/requests-oauthlib/blob/master/README.rst).
+1. Install **requests** and **requests_oauthlib** from pip. See "Installation" section of [README.rst](https://github.com/requests/requests-oauthlib/blob/master/README.rst).
 ```
 $ pip install requests requests_oauthlib
 ```
-1. Make ./callback_plugins directory under the directory of playbook file, and put tweet.py in there.
-1. Modify Twitter API Info section of tweetpy to yours.
+1. Make **./callback_plugins** directory under the directory of playbook file, and put **tweet.py** in there.
+1. Modify **Twitter API Info** section of tweet.py to yours. You can create tokens from the [Twitter Application Management](https://apps.twitter.com/).
 ```
 # Twitter API Info
 consumer_key="#YOUR_CONSUMER_KEY"
